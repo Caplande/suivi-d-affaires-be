@@ -1,0 +1,2 @@
+Partie back-end de mon projet Suivi d'affaires.
+Cette partie devrait se situer sur une seule branche "back-end"

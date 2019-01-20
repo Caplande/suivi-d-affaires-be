@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+#app_lister_affaires:
+#    path: /listerAffaires
+#    controller: App\Controller\RequetesController::listerAffaires
